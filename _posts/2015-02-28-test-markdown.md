@@ -7,8 +7,8 @@ subtitle: Sawyer Library Bookcases
 #tags: [test]
 ---
 
-![](/img/SawyerBookcases.jpg)
-![](/img/SawyerBookcases2.jpg)
+![](/img/SawyerBookcases.JPG)
+![](/img/SawyerBookcases2.JPG)
 
 ### What?
 
