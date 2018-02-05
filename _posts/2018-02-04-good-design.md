@@ -17,3 +17,7 @@ Sawyer serves the reference needs for all Div 1 and Div 2 students, so they have
 ## Why is it great?
 
 The design works on a single valuable observation: that the aisles on either sides of each bookcase are not occupied all the time. This means that if we can eliminate these often un-used space, we could reclaim a lot of storage *affordance* for the bookcases.
+
+The handles on the side of each bookcase has a circular design that informs users to use a turn motion on them, so they serve as effective *signifiers*. It is however not clear that the green pin helps lock the bookcase in place - a potential design shortfall.
+
+Finally, the bookcases provide instant *feedback* (moving left/right) when the handle is turned, and the direction of handle turning *maps* intuitively to the direction of the bookcase movement.
