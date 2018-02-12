@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Proposal
-subtitle: Newsbridge
+subtitle: News Suggestion App
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
@@ -11,12 +11,21 @@ subtitle: Newsbridge
 
 ### On Media Polarization
 
-Sawyer serves the reference needs for all Div 1 and Div 2 students, so they have a massive collection of books and very smart bookcases to support storing and displaying a selection of loanable books. These bookcases are fitted with wheels that move along tracks on the floor. When users turn the handle to the side of each bookcase, the case would move towards the direction of the turning movement.
+According to the [Pew Research Center](http://www.journalism.org/2014/10/21/political-polarization-media-habits/pj_14-10-21_mediapolarization-08/), people of different ideological backgrounds tend to consume news from a wide variety of different sources. In this century, the media have grown to become hugely influential, as whoever feeds us the most up-to-date piece of news may also hold the power to mold how we react emotionally and politically to it. This presents the problem of ideological polarization, which may account for some of the recent political volatilities in the past few years.
 
-## Why is it great?
+[Some critics believe that a less polarized society](http://nymag.com/daily/intelligencer/2017/10/voters-not-just-politicians-polarized-by-party-and-ideology.html) is more efficient at achieving collective goals, as many projects require bipartisan effort to accomplish. Thus, bridging this gap in the society might be one of the necessary first steps towards a better future.
 
-The design works on a single valuable observation: that the aisles on either sides of each bookcase are not occupied all the time. This means that if we can eliminate these often un-used space, we could reclaim a lot of storage *affordance* for the bookcases.
+## What to Do with News Source Bias?
 
-The handles on the side of each bookcase has a circular design that informs users to use a turn motion on them, so they serve as effective *signifiers*. It is however not clear that the green pin helps lock the bookcase in place - a potential design shortfall.
+Hoping for news sources to cover in a completely unbiased fashion may be impossible, as these sources are mostly controlled by bigger entities with their own political agendas. Thus, one of the better way to approach this problem is to attempt to change consumers' behavior regarding news sources.
 
-Finally, the bookcases provide instant *feedback* (moving left/right) when the handle is turned, and the direction of handle turning *maps* intuitively to the direction of the bookcase movement.
+At the same time, it is clear that in order to modify someone's behavior, the process must not be abrupt. On the contrary, it must be as convenient as possible, since anything considered obstrusive to the general day-to-day life might deter consumers from engaging more with the product.
+
+## Proposal: News Suggestion App
+
+Thus, I propose a news suggestion app with the following set of (very very) general features:
+- Construct a user-provided collection of favorite news sources.
+- Understanding users' stances on various political issues.
+- Whenever users peruse articles on a particular issue, suggest matching articles from other news sources on the political spectrum.
+- Learn from users' most recently read articles, to construct a set of reading list regarding a wider overarching topic.
+- Provide a social media environment where users could check out what their friends are reading.
