@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Good Design
-subtitle: Sawyer Library Bookcases
+title: Project Proposal
+subtitle: Newsbridge
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
 ---
 
-![](/img/SawyerBookcases2.JPG)
+![](/img/news.png)
 
-### What?
+### On Media Polarization
 
 Sawyer serves the reference needs for all Div 1 and Div 2 students, so they have a massive collection of books and very smart bookcases to support storing and displaying a selection of loanable books. These bookcases are fitted with wheels that move along tracks on the floor. When users turn the handle to the side of each bookcase, the case would move towards the direction of the turning movement.
 
