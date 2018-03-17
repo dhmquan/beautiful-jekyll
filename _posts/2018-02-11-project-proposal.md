@@ -2,6 +2,7 @@
 layout: post
 title: Project Proposal
 subtitle: News Suggestion App
+image: snake.png
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
